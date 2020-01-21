@@ -1,3 +1,4 @@
+<pre>
 # Bresenham-Integer-Line-Drawing-Algorithm
 begin\
 plot (x1, y1) ;\
@@ -16,3 +17,4 @@ for (i= x1 to x2 by step of 1) {\
     }\
 }\
 end\
+<\pre>
