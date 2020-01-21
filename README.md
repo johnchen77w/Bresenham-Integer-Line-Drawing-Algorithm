@@ -18,4 +18,3 @@ for (i= x1 to x2 by step of 1) {
     }
 }
 end
-<\pre>
